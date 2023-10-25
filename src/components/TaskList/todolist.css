@@ -1,0 +1,65 @@
+body {
+	background: linear-gradient(90deg,
+			rgb(130, 111, 255) 0%,
+			rgb(85, 113, 255) 50%,
+			rgb(55, 56, 68) 100%);
+}
+
+.Input-task {
+	width: 40%;
+	height: 65vh;
+	background: white;
+	border: 1px solid #ccc;
+	border-radius: 15px;
+	margin: 34px;
+	float: left;
+	overflow: hidden;
+}
+
+
+input {
+	height: 60px;
+	background: transparent;
+	font-size: 20px;
+	color: white;
+	width: 35%;
+	margin-right: 20px;
+	margin: 20px
+}
+
+
+.Add-Btn {
+	width: 200px;
+	height: 45px;
+	background-color: #7E57C2 !important;
+	color: white !important;
+	box-shadow: 5px 5px 15px -5px rgb(0, 0, 0);
+
+}
+
+.text-Font {
+	font-family: verdana;
+	font-size: 20px;
+	font-weight: 500;
+}
+
+.Complete-task {
+	width: 40%;
+	height: 65vh;
+	background: white;
+	border: 1px solid #ccc;
+	border-radius: 15px;
+	margin: 34px;
+	float: right;
+	overflow: hidden;
+
+
+}
+
+
+
+
+.heading {
+	text-align: center;
+	color: #7E57C2;
+}
